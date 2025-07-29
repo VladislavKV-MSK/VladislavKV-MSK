@@ -6,11 +6,10 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vladcrylov@yandex.ru)
 
 
-Я - backend-разработчик на Go, специализируюсь на проектировании высоконагруженных систем.  
+Я - backend-разработчик на Go из Москвы, специализируюсь на проектировании высоконагруженных систем.  
 Стремлюсь к работе, где мой код напрямую влияет на продукт, а окружение мотивирует профессиональный рост.  
 Изучаю интеграцию классической разработки с ИИ и DevOps-инструментами (Docker).  
 
-🔎 **Все мои проекты:** [github.com/VladislavKV-MSK?tab=repositories](https://github.com/VladislavKV-MSK?tab=repositories)
 
 ## 🛠 Технический стек
 
@@ -41,5 +40,4 @@ Testing        ██████████████░░░░░░ 65%
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=VladislavKV-MSK&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 180px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladislavKV-MSK&layout=compact&theme=radical" alt="Top Languages" style="height: 180px;"/>
-  <img src="https://ghchart.rshah.org/VladislavKV-MSK" alt="Contribution Chart" style="height: 180px;"/>
 </div>
